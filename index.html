@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo List</title>
+    <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css"
+    rel="stylesheet"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="todoList">
+            <img src="../TodoList/assets/empty.svg" alt="" id="mainPic">
+            <p class="title">Todo List</p>
+            <div class="search">
+                <input type="text" placeholder="Add a new task" id="addNewTask">
+                <i class="ri-add-circle-fill" onclick="addNewTask()"></i>
+            </div>
+            <ul class="type">
+                <li id="seeAllTasks">See All</li>
+                <li id="completedTask">Complete</li>
+                <li id="incompleteTask">Incomplete</li>
+                <li id="deleteTasks">Delete All</li>
+            </ul>
+            <div class="data">
+                <ul id="showTasks">
+                </ul>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
