@@ -9,12 +9,20 @@
 ## Filter tasks:
 
  - See All: View all tasks (completed and incomplete).
+   - <img width="545" height="565" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/aba2a7e7-9467-4595-861c-454ec32875ca" />
+
 
  - Complete: View only tasks that are marked as complete.
+   - <img width="526" height="592" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/00f4518d-2387-431f-9317-76dbebac0b34" />
+
 
  - Incomplete: View tasks that haven't been marked as complete.
+    - <img width="598" height="597" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/ae126c53-16f2-4cb7-92ed-0d40845f3ecb" />
+
 
  - Delete All: Clear all tasks with a single click.
+    - <img width="528" height="596" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/97fda967-5455-4f11-9014-3576df9f8431" />
+
 
 ## 🎨 UI Preview
 
