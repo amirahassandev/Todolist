@@ -19,6 +19,8 @@
 ## 🎨 UI Preview
 
  - The interface is clean, with an easy-to-navigate layout and intuitive design.
+ - <img width="488" height="543" alt="todolist" src="https://github.com/user-attachments/assets/03056f4e-f998-42ef-8de1-de12073d469f" />
+
 
 ## 🛠️ How to Run the Project
 
